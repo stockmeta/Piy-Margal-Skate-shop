@@ -1,0 +1,52 @@
+body {
+	background-image: url("images/7016081409_7e0cae35c7_b.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+h1 {
+	color: rebeccapurple;
+	text-transform: uppercase;
+}
+h2 {
+	font-family: cursive;
+	color: maroon;
+}
+
+#PiyMargal {
+	background-color: black;
+	color: white;
+	padding: 40px;
+	text-align: center;
+	opacity: 0.75;
+}
+#piyMargal {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	opacity: 0.75;
+}
+table, td {
+	color: red;
+	border: 2px solid black;
+}
+.first	{
+	color: black;
+	background-color: white;
+	padding: 30px;
+	opacity: 0.75;
+	text-indent: 2em;
+	font-family: Arial;
+	font-size: 18px;
+}
+.second	{
+	text-indent: 505px;
+}
+.third {
+	color: green;
+	background-color: black;
+	opacity: 0.75;
+	font-size: 23px;
+	text-indent: 46px;
+}
